@@ -110,6 +110,8 @@ arm-none-eabi-gcc -v
 
 如果安装成功后编译还出现报错可以使用`make clean`命令清除上次的make命令所产生的object文件及可执行文件，重新编译。
 
+
+
 ****
 
 参考资料：
