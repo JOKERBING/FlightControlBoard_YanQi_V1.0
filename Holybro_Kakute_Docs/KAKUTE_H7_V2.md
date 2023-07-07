@@ -118,7 +118,6 @@ UART4 | /dev/ttyS3 | GPS1
 USART6 | /dev/ttyS4 | RC SBUS
 UART7 | /dev/ttyS5 | ESC telemetry (DShot)
 
-
 ## Debug Port
 
 ### System Console
